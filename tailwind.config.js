@@ -8,7 +8,8 @@ module.exports = {
     extend: {},
   },
   variants: {
-    extend: {},
+    extend: {
+      backdropColor: ["disabled"], cursor: ["disabled"]},
   },
   plugins: [],
 }
